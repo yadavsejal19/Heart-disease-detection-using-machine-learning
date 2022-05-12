@@ -40,18 +40,13 @@ We achieve an approximately 93% accuracy rate and continuously improve it furthe
 - python
 
 ### Tools 
-- jupyter notebook
-- roko
-
-
+- Jupyter notebook
+- Heroku
 
 
  Demo
-
-Insert gif or link to demo
-
-
-Screenshots
+ 
+ Screenshots
 
 
 ## Support
