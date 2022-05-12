@@ -8,6 +8,10 @@
 
 - I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
+## Authors
+
+- Github: [@yadavsejal19](https://github.com/yadavsejal19)
+
 ## Machine Learning algorithms used:
 
 - Logistic Regression (Scikit-learn)
